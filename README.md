@@ -1,2 +1,2 @@
-# webdesigner4alluser.github.io
-web site for those who design for all 
+# Deep learning
+implementing deep learning on knee to detect Osteoarthritis in x-ray image 
